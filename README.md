@@ -15,9 +15,10 @@ KTU 2019 Scheme
 1. Linear Regression
 2. Mulit-Variable Regression
 3. Polynomial Regression
-4. Naive Bayes
-5. Decision tree ID3
-6. Support Vector Machine Classifier
-7. K-Nearest Neighbor Algorithm
-8. K-Mean Clustering
-9. Dimensionality Reduction PCA
+6. Logistic Regression
+5. Naive Bayes
+6. Decision tree ID3
+7. Support Vector Machine Classifier
+8. K-Nearest Neighbor Algorithm
+9. K-Mean Clustering
+10. Dimensionality Reduction PCA
